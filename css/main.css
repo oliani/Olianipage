@@ -8,3 +8,9 @@ body {
     height: 60px;
     width: 100%;
 }
+
+main {
+    width: 980px;
+    float: left;
+    position: relative;
+}
