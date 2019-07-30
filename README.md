@@ -15,5 +15,9 @@ This site is my first HTML expereince and I intent to work with JS and Reac Nati
 if you have any questions feel free to send me an e-mail: edu-oliani@hotmail.com
 
 Credits: Eduardo Luiz Oliani
-Instagram: @olianiofficial
+
+Instagram: @olianiofficial ((https://www.instagram.com/olianiofficial/)
+
 Youtube: youtube.com/olianiofficial
+
+Site link: http://www.olianiofficial.com/
